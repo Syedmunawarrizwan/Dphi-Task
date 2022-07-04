@@ -24,7 +24,13 @@ function AdminChallenges(props) {
         if (id != -1) {
             if (hackathonsList[id]) {
                 const patchData = hackathonsList[id];
-                setHackthonTitle(patchData.hackathon_Descrtipion);
+                setHackthonTitle(patchData.hackathon_title);
+                setHackathonDescription(patchData.hackathon_description);
+                setHackathonLevel(patchData.hackathon_level);
+                setStartDate(patchData.start_date);
+                setEndDate(patchData.end_date)
+
+
             }
         }
 
