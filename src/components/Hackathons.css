@@ -1,0 +1,53 @@
+.hackathons-header {
+  height: 324px;
+
+  background: #002a3b;
+  color: #ffffff;
+}
+h2 {
+  text-align: center;
+  /* padding-top: 72px; */
+
+  /* padding-top: 72px; */
+}
+.hackathons-container {
+  /* height: 1196px; */
+  width: 1440px;
+  background: #003145;
+}
+
+.hackathon-input {
+  margin-top: 64px;
+  position: absolute;
+  width: 820px;
+  height: 50px;
+  left: 150px;
+
+  background: #ffffff;
+  box-shadow: 0px 4px 50px rgba(111, 111, 111, 0.1);
+  border-radius: 12px;
+  padding-left: 13px;
+}
+.hackathon-filter {
+  margin-bottom: 64px;
+  /* box-sizing: border-box; */
+
+  position: absolute;
+  width: 290px;
+  height: 300px;
+  left: 1000px;
+  color: black;
+  /* top: 1907px; */
+
+  background: #ffffff;
+  border: 1px solid #eaeaea;
+  border-radius: 12px;
+}
+.cards-div {
+  margin-left: 134px;
+  margin-top: 75px;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 80rem;
+  gap: 2rem;
+}

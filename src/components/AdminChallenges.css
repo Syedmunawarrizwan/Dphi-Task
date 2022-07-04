@@ -1,0 +1,68 @@
+.admin-container {
+  /* margin-left: 89px; */
+}
+.admin-header {
+  height: 107px;
+  background-color: #f8f9fd;
+  padding-left: 89px;
+  padding-top: 41px;
+}
+.form-create {
+  padding-left: 89px;
+}
+.admin-inp-div {
+  margin-top: 19px;
+}
+.lables {
+  /* position: absolute; */
+  width: 163px;
+  height: 21px;
+  /* left: 89px;
+    top: 204px; */
+  /* margin-top: 19px; */
+
+  /* font-family: "Inter"; */
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+
+  /* Gray 1 */
+
+  color: #333333;
+}
+.admin-inp {
+  height: 39px;
+  width: 453px;
+  border-radius: 5px;
+}
+.admin-btn {
+  margin-top: 56px;
+  background: #44924c;
+  color: #ffffff;
+}
+.admin-textarea {
+  height: 252px;
+  width: 817px;
+  left: 89px;
+  top: 593px;
+  border-radius: 5px;
+}
+.admin-level {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 236px;
+  height: 39px;
+
+  border: 1px solid #b7b7b7;
+  border-radius: 5px;
+}
+.file-input {
+  position: absolute;
+  width: 236px;
+  height: 47px;
+
+  background: #f4f4f4;
+  border: 1px solid #d9d9d9;
+}

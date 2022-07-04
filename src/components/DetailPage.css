@@ -1,0 +1,43 @@
+.detail-header {
+  height: 419px;
+  background-color: #003145;
+}
+.detail-h1 {
+  height: 48px;
+  width: 818px;
+  padding-left: 126px;
+  padding-top: 218px;
+  border-radius: nullpx;
+  color: #ffffff;
+}
+.detail-page-footer {
+  paddin-top: 20px;
+  height: 66px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.edit-delete-div {
+  gap: 1rem;
+  display: flex;
+}
+.edit-btn {
+  height: 37px;
+  width: 91px;
+  background-color: #44924c;
+  border-radius: 10px;
+  color: #ffffff;
+}
+
+.delete-btn {
+  height: 37px;
+  width: 91px;
+  border: 1px solid #dc1414;
+  color: #dc1414;
+}
+.overview-footer {
+  padding-left: 300px;
+}
+.overview-p:hover {
+  text-decoration: underline 2px solid #44924c;
+}

@@ -1,0 +1,105 @@
+.listpage-container {
+  background-color: #003145;
+}
+
+.create-challenge-div {
+  height: 625px;
+  background-color: #003145;
+  color: #ffffff;
+  padding-top: 186px;
+  padding-left: 206px;
+  display: flex;
+}
+
+.description-h1-div {
+  border-left: 9px solid #ffce5c;
+  width: 643px;
+  height: 115px;
+  padding-left: 50px;
+}
+.description-p-div {
+  margin-top: 38px;
+  width: 531px;
+  height: 112px;
+  font-size: 18px;
+}
+button {
+  width: 198px;
+  height: 47px;
+  border-radius: 10px;
+  background: #ffffff;
+}
+.description-footer {
+  height: 200px;
+  background: #002a3b;
+  color: #ffffff;
+  display: flex;
+}
+.description-footer h1 {
+  font-size: 48px;
+}
+.icon-footer {
+  display: flex;
+  margin-top: 72px;
+  padding-left: 184px;
+  width: 309px;
+}
+.icon-des {
+  padding-left: 22px;
+  border-right: 1px solid #c4c4c4;
+  width: 300px;
+  height: 70px;
+
+  /* margin-bottom: 52px; */
+}
+
+.participate-div {
+  height: 902px;
+  left: 0px;
+  top: 829px;
+  border-radius: 0px;
+}
+.participate-h1 {
+  text-align: center;
+  height: 24px;
+  font-size: 32px;
+  margin-top: 90px;
+}
+.participate-card {
+  padding-left: 33px;
+  padding-top: 66.7px;
+  height: 276px;
+  width: 542px;
+  border-radius: 20px;
+  background-color: #f8f9fd;
+}
+
+.t {
+  display: flex;
+  padding-left: 160px;
+}
+.cards-1 {
+  margin-top: 72px;
+
+  display: flex;
+  padding-left: 120px;
+  justify-content: space-evenly;
+}
+.cards-2 {
+  margin-top: 39px;
+  display: flex;
+  padding-left: 120px;
+  justify-content: space-evenly;
+}
+.card {
+  height: 29.5625px;
+  width: 37.625px;
+  left: 2.6875px;
+  top: 6.71875px;
+  border-radius: 0px;
+}
+b {
+  color: #44924c;
+}
+
+/* ------------------------------Create Challenge Css  *------------------------------*/

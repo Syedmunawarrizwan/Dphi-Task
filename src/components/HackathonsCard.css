@@ -1,0 +1,47 @@
+.hackathons-card-container {
+  height: 473px;
+  width: 354px;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  border-radius: 15px;
+}
+.main {
+  display: flex;
+  /* align-items: center; */
+}
+.card-img {
+  width: 354px;
+  height: 174px;
+}
+img {
+  width: 354px;
+  height: 174px;
+}
+.status-div {
+  height: 63px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.card-sta {
+  position: absolute;
+  width: 87px;
+  height: 21px;
+
+  background: rgba(242, 201, 76, 0.25);
+}
+.card-name {
+  width: 246px;
+  height: 44px;
+}
+.card-h2 {
+  size: 16px;
+}
+.card-btn {
+  background: #44924c;
+  color: #ffffff;
+}
